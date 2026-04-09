@@ -16,10 +16,10 @@ The goal of this project is to build a predictive model that identifies which cu
 
 ## 📈 Current Progress
 - [x] Initial Repository Setup
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] Feature Engineering & Preprocessing
-- [ ] Model Training (Random Forest)
-- [ ] Evaluation & Business Insights
+- [x] Exploratory Data Analysis (EDA)
+- [x] Feature Engineering & Preprocessing
+- [x] Model Training (Random Forest)
+- [x] Evaluation & Business Insights
 
 ---
 **How to Run:**  
